@@ -1,4 +1,4 @@
 homepage: "https://ayruz.com"
 versions:
-  - sha: b39983ac8a20a20897093fb537e1b6be9a8f1466
+  - sha: 4d4a4bd3b8297ff9109d2e1b5425ce2f892ec3dd
     changeNotes: Initial release.
